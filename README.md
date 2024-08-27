@@ -34,6 +34,7 @@ Sales Forecasting: Developed a predictive model that accurately forecasts future
 ### Clone the Repository:
 
 git clone https://github.com/riasterdom/sales-insights-with-powerBI.git
+
 cd sales-insights-with-powerBI
 
 Run the Notebooks: Open the Jupyter notebooks in the notebooks/ directory to run the data analysis and modeling code.
