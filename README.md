@@ -1,9 +1,9 @@
 # Sales-insights-with-PowerBI
 
-##Overview
+## Overview
 This project focuses on analyzing sales data to generate insights that can drive business growth and improve decision-making at a hardware company. By leveraging data analysis techniques, the project aims to uncover trends, patterns, and actionable insights within the sales data.
 
-##Project Objectives
+## Project Objectives
 Data Cleaning & Preparation: Clean and preprocess the raw sales data to ensure accuracy and reliability.
 Exploratory Data Analysis (EDA): Explore the data to identify key trends, anomalies, and patterns that can impact sales performance.
 Sales Performance Analysis: Analyze sales performance by various dimensions such as region, product, and time to understand what drives sales.
@@ -30,8 +30,8 @@ Top-Performing Products: Discovered the best-selling products and the factors co
 Customer Insights: Segmented customers based on purchasing behavior, identifying high-value segments.
 Sales Forecasting: Developed a predictive model that accurately forecasts future sales, enabling proactive decision-making.
 
-##How to Run the Project
-###Clone the Repository:
+## How to Run the Project
+### Clone the Repository:
 
 git clone https://github.com/riasterdom/sales-insights-with-powerBI.git
 cd sales-insights-with-powerBI
@@ -39,7 +39,7 @@ cd sales-insights-with-powerBI
 Run the Notebooks: Open the Jupyter notebooks in the notebooks/ directory to run the data analysis and modeling code.
 View the Dashboards: Open the dashboards in Power BI/Tableau to explore the visualizations and insights.
 
-##Future Work
+## Future Work
 Enhanced Predictive Modeling: Improve the predictive models by incorporating additional features and using advanced algorithms.
 Automated Reporting: Develop an automated reporting system that generates insights in real-time.
 Integration with Business Tools: Integrate the insights with business tools like CRM systems for actionable business intelligence.
